@@ -24,7 +24,7 @@ ellipse(572,570,60);
 ellipse(328,78,60);
 ellipse(418,78,60);
 fill(8,8,8);
-circle(328,78,30);
+ellipse(328,78,60);
 fill(8,8,8);
 ellipse(418,78,60);
 fill(8,8,8);
