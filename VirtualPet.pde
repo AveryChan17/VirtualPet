@@ -48,6 +48,6 @@ ellipse(535,555,30,30);
 ellipse(572,570,30,30);
 }
 
-void draw(){
+void draw(){}
 
 
