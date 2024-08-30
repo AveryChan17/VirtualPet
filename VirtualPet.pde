@@ -49,5 +49,5 @@ ellipse(572,570,60);
 }
 
 void draw(){
-System.out.println(mouseX + "," +mouseY);
+
 }
